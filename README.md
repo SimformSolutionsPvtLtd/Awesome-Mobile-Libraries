@@ -43,10 +43,7 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 * [MVVMListDemo](https://github.com/SimformSolutionsPvtLtd/MVVMListDemo) - A simple MVVM list.
 * [CreateFirebaseDynamicLinks](https://github.com/SimformSolutionsPvtLtd/CreateFirebaseDynamicLinks) - The FireBaseDynamicLinkReuabelClass provide the sharing data between both ios and android plateforms.
 * [CMPedometerDemo](https://github.com/SimformSolutionsPvtLtd/CMPedometerDemo) - Let's count steps using CMPedometer.
-* [QualityCodeSample](https://github.com/SimformSolutionsPvtLtd/QualityCodeSample) - A Sample code template for Any project.
-* [MVVMSampleCode](https://github.com/SimformSolutionsPvtLtd/MVVMSampleCode) - A Sample code MVVM.
 * [SSCustomTabMenu](https://github.com/SimformSolutionsPvtLtd/SSCustomTabMenu) - Simple customizable iOS bottom menu works like Tabbar, in Swift.
-* [DFPDemo](https://github.com/SimformSolutionsPvtLtd/DFPDemo) - A Simple Demo for showing Ads.
 * [ios-commons](https://github.com/SimformSolutionsPvtLtd/ios-commons) - It Contains GoogleAnalytics/Firebase, Answers, Localytics, Social Media login, Reachability, Device permission Manage and learn state of Photo library, Camera etc.
 
 ### SwiftUI
