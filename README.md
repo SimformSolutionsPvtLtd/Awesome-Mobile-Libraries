@@ -8,6 +8,8 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
   - [Objective-C](#objective-c)
 
 - [Android Guides](#android-guides)
+  - [Kotlin](#kotlin)
+  - [Jetpack Compose](#jetpack-compose)
 
 - [Flutter Guides](#flutter-guides)
 
@@ -74,6 +76,37 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 
 
 ## Android Guides
+*An awesome list of Android related guides.*
+
+### Kotlin
+
+[Kotlin](https://developer.android.com/kotlin) - A complete guide for Kotlin.
+
+* [SSCustomBottomNavigation](https://github.com/SimformSolutionsPvtLtd/SSCustomBottomNavigation) - SSCustomBottomNavigation is a customizable bottom bar library with curved animations and Jetpack Navigation support.
+* [SSffmpegVideoOperation](https://github.com/SimformSolutionsPvtLtd/SSffmpegVideoOperation) - SSffmpegVideoOperation is a FFmpeg compiled library for Android. It provides ease to execute FFmpeg commands in your Android app.
+* [SSCustomEditTextOutlineBorder](https://github.com/SimformSolutionsPvtLtd/SSCustomEditTextOutLineBorder) - SSCustomEditTextOutLineBorder is a small kotlin library for android to support outlined (stroked) text in EditText widgets same as Material Design Outlined Box(https://material.io/develop/android/components/text-input-layout/) but without floating label.
+* [SSArcSeekBar](https://github.com/SimformSolutionsPvtLtd/SSArcSeekBar) - SSArcSeekBar includes different type of arc seekbar. Easy to use and configure your own seekbar using all the attributes.
+* [SSSceneFormSdkSample](https://github.com/SimformSolutionsPvtLtd/SSSceneFormSdkSample) - This is a Augmented Reality Android app which is made by using ARcore and Sceneform SDK.
+* [SSPullToRefresh](https://github.com/SimformSolutionsPvtLtd/SSPullToRefresh) - SSPullToRefresh makes PullRefresh easy to use, you can provide your own custom animations or set simple gifs on refresh view. The best feature is Lottie animations in refresh view, it uses lottie animations to render high quality animations on pull refresh.
+* [SSAudioRecorderWithWaveForm](https://github.com/SimformSolutionsPvtLtd/SSAudioRecorderWithWaveForm) - SSAudioRecorderWithWaveForm is recording audio with wave form data, you can record audio using the app and also you can also pickup already recorded audio from gallery. The best thing is our application is after recording we can trim that audio from start point to end point using slider.
+* [SSExpandableRecyclerView](https://github.com/SimformSolutionsPvtLtd/SSExpandableRecylerView) - SSExpandableRecyclerview make it easy to integrate nested recyclerview. Just extend BaseRecyclerAdapter and good to go.
+* [SSImagePicker](https://github.com/SimformSolutionsPvtLtd/SSImagePicker) - Easy to use and configurable library to Pick an image from the Gallery or Capture image using Camera with crop, rotate and zoom feature.
+* [SSCustomCameraControl](https://github.com/SimformSolutionsPvtLtd/SSCustomCameraControl) - Custom camera filter can capture image from camera and also pick image from gallery. After capturing image user can add filters from filter library. Custom camera filter has 15 filters. User can save image after applying filters.
+* [SSBiometricsAuthentication](https://github.com/SimformSolutionsPvtLtd/SSBiometricsAuthentication) - This applications is sample for Biometrics Authentication in Android using Biometrics API. With the launch of Android 10 (API level 29), developers can now use the Biometric API, part of the AndroidX Biometric Library, for all their on-device user authentication needs.
+* [Kotlin-multiplatform-sample](https://github.com/SimformSolutionsPvtLtd/Kotlin-multiplatform-sample) - Kotlin Multiplatform allows you to share your business logic on multiple platforms like android, iOS and native desktop applications and as a result reducing the amount of time required for development.
+* [SSAndroidNeumorphicKit](https://github.com/SimformSolutionsPvtLtd/SSAndroidNeumorphicKit) - SSNeumorphicKit is to build Neumorphism design UI in Android.
+* [VonageVideoCalling_Android](https://github.com/SimformSolutionsPvtLtd/VonageVideoCalling_Android) - This applications is provide one to one video calls with using Vonage Video API Android SDK(https://tokbox.com/developer/sdks/android/)
+* [Kotlin-Extensions](https://github.com/SimformSolutionsPvtLtd/Kotlin-Extensions) - Small library that contains common extensions for Android/Kotlin.
+
+### Jetpack-Compose
+
+[Jetpack Compose](https://developer.android.com/jetpack/compose) - A complete guide for modern toolkit for building native UI.
+
+* [SSComposeCookBook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) - A Collection of major Jetpack compose UI components which are commonly used. This library includes all major components(https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook#components) for the project development.
+* [SSJetPackComposeProgressButton](https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton) - SSJetPackComposeProgressButton is an elegant button with a different loading animations which makes your app attractive.
+* [SSJetpackComposeSwipeableView](https://github.com/SimformSolutionsPvtLtd/SSJetpackComposeSwipeableView) - SSJetpackComposeSwipeableView is a small library which provides support for the swipeable views. You can use this in your lazyColumns or can add a simple view which contains swipe to edit/delete functionality.
+* [SSComposeShowCaseView](https://github.com/SimformSolutionsPvtLtd/SSComposeShowCaseView) - SSComposeShowCaseView is a customizable library that allows you to showcase/highlight your widgets step by step.
+* [Jetpack-compose-sample](https://github.com/SimformSolutionsPvtLtd/Jetpack-compose-sample) - This repository is to get started with new Jetpack Compose Toolkit for Android. By using Jetpack Compose you no need to build your UI with XML files. Build your UI directly by writing composable functions.
 
 ## Flutter Guides
 
