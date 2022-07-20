@@ -16,7 +16,7 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 - [React Native Guides](#react-native-guides)
   
 ## iOS Guides
-*An awesome list of iOS related guides.* 
+*An awesome collection of iOS related guides.* 
 
 ### Swift
 
@@ -76,7 +76,7 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 
 
 ## Android Guides
-*An awesome list of Android related guides.*
+*An awesome collection of Android related guides.*
 
 ### Kotlin
 
@@ -109,6 +109,14 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 * [Jetpack-compose-sample](https://github.com/SimformSolutionsPvtLtd/Jetpack-compose-sample) - This repository is to get started with new Jetpack Compose Toolkit for Android. By using Jetpack Compose you no need to build your UI with XML files. Build your UI directly by writing composable functions.
 
 ## Flutter Guides
+*An awesome collection of Flutter related packages and examples.*
+* [Showcase view](https://github.com/SimformSolutionsPvtLtd/flutter_showcaseview) - A Flutter package allows you to Showcase/Highlight your widgets step by step.
+* [Calendar view](https://github.com/SimformSolutionsPvtLtd/flutter_calendar_view) - A Flutter package allows you to easily implement all calendar UI and calendar event functionality.
+* [Credit card](https://github.com/SimformSolutionsPvtLtd/flutter_credit_card) - A Flutter package allows you to easily implement the Credit card's UI easily with the Card detection.
+* [Chat view](https://github.com/SimformSolutionsPvtLtd/flutter_chatview) - A Flutter package that allows you to integrate Chat View with highly customization options.
+* [Audio waveforms](https://github.com/SimformSolutionsPvtLtd/audio_waveforms) - Use this package to generate waveforms while recording audio in any file formats supported by given encoders or from audio files. You can use gestures to scroll through the waveforms or seek to any position while playing audio and also style waveforms.
+* [Battleship game](https://github.com/SimformSolutionsPvtLtd/battleship_flutter_flame) - A Flutter project of 2 player battleship game developed with Flame engine.
+
 
 ## React Native Guides
 
