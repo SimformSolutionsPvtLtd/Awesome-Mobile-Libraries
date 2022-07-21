@@ -1,24 +1,26 @@
 ![Awesome Mobile Libraries - Simform LLC.](https://github.com/SimformSolutionsPvtLtd/Awesome-Mobile-Libraries/blob/master/preview/banner.png?raw=true)
 
 # Awesome Mobile Libraries
+![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+
 This repo contains all the Open-source Libraries from iOS, Android, Flutter and React-Native.
 
 ### Contents
-- [iOS Collections](#ios-collections)
+- [iOS](#ios)
   - [Swift](#swift)
   - [SwiftUI](#swiftui)
   - [Objective-C](#objective-c)
 
-- [Android Collections](#android-collections)
+- [Android](#android)
   - [Kotlin](#kotlin)
   - [Jetpack Compose](#jetpack-compose)
 
-- [Flutter Collections](#flutter-collections)
+- [Flutter](#flutter)
 
-- [React Native Collections](#react-native-collections)
+- [React Native](#react-native)
 
-## iOS Collections
-*An awesome collection of iOS related guides.*
+## iOS
+*An awesome collection of iOS related packages and examples.*
 
 ### Swift
 
@@ -77,8 +79,8 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 * [VonageVideoChatIOS](https://github.com/mobile-simformsolutions/VonageVideoChatIOS) - This repository is an example project of how to integrate Callkit into Vonage iOS SDK. Integrated with WhatsApp type picture-in-picture UI.
 
 
-## Android Collections
-*An awesome collection of Android related guides.*
+## Android
+*An awesome collection of Android related packages and examples.*
 
 ### Kotlin
 
@@ -110,7 +112,7 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 * [SSComposeShowCaseView](https://github.com/SimformSolutionsPvtLtd/SSComposeShowCaseView) - SSComposeShowCaseView is a customizable library that allows you to showcase/highlight your widgets step by step.
 * [Jetpack-compose-sample](https://github.com/SimformSolutionsPvtLtd/Jetpack-compose-sample) - This repository is to get started with new Jetpack Compose Toolkit for Android. By using Jetpack Compose you no need to build your UI with XML files. Build your UI directly by writing composable functions.
 
-## Flutter Collections
+## Flutter
 *An awesome collection of Flutter related packages and examples.*
 * [Showcase view](https://github.com/SimformSolutionsPvtLtd/flutter_showcaseview) - A Flutter package allows you to Showcase/Highlight your widgets step by step.
 * [Calendar view](https://github.com/SimformSolutionsPvtLtd/flutter_calendar_view) - A Flutter package allows you to easily implement all calendar UI and calendar event functionality.
@@ -120,7 +122,7 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 * [Battleship game](https://github.com/SimformSolutionsPvtLtd/battleship_flutter_flame) - A Flutter project of 2 player battleship game developed with Flame engine.
 
 
-## React Native Collections
+## React Native
 *An awesome collection of [React-Native](https://reactnative.dev/) related packages.*
 
 * [react-native-radial-slider](https://www.npmjs.com/package/react-native-radial-slider) - A React Native component to select or highlight a specific value from a range of values
