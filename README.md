@@ -11,6 +11,8 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
   - [SwiftUI](#swiftui)
   - [Objective-C](#objective-c)
 
+- [watchOS](#watchos)
+
 - [Android](#android)
   - [Kotlin](#kotlin)
   - [Jetpack Compose](#jetpack-compose)
@@ -77,6 +79,11 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 * [SSLinkedIn](https://github.com/SimformSolutionsPvtLtd/SSLinkedIn) - LinkedinSwift is a project for managing native LinkedIn SDK using CocoaPods.
 * [iOS-BarcodeScan](https://github.com/SimformSolutionsPvtLtd/iOS-BarcodeScan) - Barcode scanning is general feature which require in most of the application so here is the simple barcode scanning code with just 2-3 steps.
 * [VonageVideoChatIOS](https://github.com/mobile-simformsolutions/VonageVideoChatIOS) - This repository is an example project of how to integrate Callkit into Vonage iOS SDK. Integrated with WhatsApp type picture-in-picture UI.
+
+## watchOS
+*An awesome collection of watchOS related packages and examples.*
+
+* [SSLineChart](https://github.com/SimformSolutionsPvtLtd/SSLineChart) - For the apple watch, SSLineChart draws a UIImage of a chart with given values and provide additional functionality of gradient color fill.
 
 
 ## Android
