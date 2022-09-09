@@ -133,6 +133,8 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 
 * [react-native-radial-slider](https://www.npmjs.com/package/react-native-radial-slider) - A React Native component to select or highlight a specific value from a range of values
 * [react-native-country-code-select](https://www.npmjs.com/package/react-native-country-code-select) - A React Native component that allows users to select a country code with search and filter functionality
+* [react-native-animation-catalog](https://www.npmjs.com/package/react-native-animation-catalog) - A collection of animated React Native components
+* [react-native-story-view](https://www.npmjs.com/package/react-native-story-view) - A React Native component to show image and video stories
 * [react-native-spinner-button](https://www.npmjs.com/package/react-native-spinner-button) - A React Native button component with multiple animated spinners.
 
 ### Contributing and License
