@@ -71,6 +71,8 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 * [SSSwiftUILoader](https://github.com/SimformSolutionsPvtLtd/SSSwiftUILoader) - A customisable, simple and elegant loader in SwiftUI.
 * [SSSwiftUIVideoPlayerLayer](https://github.com/SimformSolutionsPvtLtd/SSSwiftUIVideoPlayerLayer) - SSSwiftUIVideoPlayerLayer is a player which helps to load video in SwiftUI.
 * [SSToastMessage](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) - SSToastMessage is written in SwiftUI. It will add toast, alert, and floating message view over the top of any view. It is intended to be simple, lightweight, and easy to use. It will be a popup with a single line of code.
+* [SSStepper](https://github.com/SimformSolutionsPvtLtd/SSStepper) - SwiftUI package for creating custom stepper with gesture controls and flexible design as per your choice.
+
 
 ### Objective-C
 
