@@ -134,7 +134,9 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 ## React Native
 *An awesome collection of [React-Native](https://reactnative.dev/) related packages.*
 
+* [react-native-tree-selection](https://www.npmjs.com/package/react-native-tree-selection) - A high-performance and lightweight tree selection library for React Native
 * [react-native-photos-gallery](https://www.npmjs.com/package/react-native-photos-gallery) - A React Native custom animated photo gallery component to open and view photos
+* [react-native-images-preview](https://www.npmjs.com/package/react-native-images-preview) - A React Native animated custom image preview component
 * [react-native-radial-slider](https://www.npmjs.com/package/react-native-radial-slider) - A React Native component to select or highlight a specific value from a range of values
 * [react-native-country-code-select](https://www.npmjs.com/package/react-native-country-code-select) - A React Native component that allows users to select a country code with search and filter functionality
 * [react-native-animation-catalog](https://www.npmjs.com/package/react-native-animation-catalog) - A collection of animated React Native components
