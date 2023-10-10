@@ -59,6 +59,7 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 * [CMPedometerDemo](https://github.com/SimformSolutionsPvtLtd/CMPedometerDemo) - Let's count steps using CMPedometer.
 * [SSCustomTabMenu](https://github.com/SimformSolutionsPvtLtd/SSCustomTabMenu) - Simple customizable iOS bottom menu works like Tabbar, in Swift.
 * [ios-commons](https://github.com/SimformSolutionsPvtLtd/ios-commons) - It Contains GoogleAnalytics/Firebase, Answers, Localytics, Social Media login, Reachability, Device permission Manage and learn state of Photo library, Camera etc.
+* [SSVerticalPanoramaImage](https://github.com/SimformSolutionsPvtLtd/SSVerticalPanoramaImage) - SSVerticalPanoramaImage provides a feature to capture a vertical panorama image and also provides an option to preview it on the built-in screen.
 
 ### SwiftUI
 
