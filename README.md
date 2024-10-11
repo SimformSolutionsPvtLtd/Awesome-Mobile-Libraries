@@ -74,8 +74,11 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 * [SSToastMessage](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) - SSToastMessage is written in SwiftUI. It will add toast, alert, and floating message view over the top of any view. It is intended to be simple, lightweight, and easy to use. It will be a popup with a single line of code.
 * [SSStepper](https://github.com/SimformSolutionsPvtLtd/SSStepper) - SwiftUI package for creating custom stepper with gesture controls and flexible design as per your choice.
 * [SSSwiper](https://github.com/SimformSolutionsPvtLtd/SSSwiper) - SSSwiper is SWIFTUI package which is used to create swipe gestures action inside any view just by adding a modifier to the View with various customization options.
-* * [SSStoryStatus](https://github.com/SimformSolutionsPvtLtd/SSStoryStatus) - SSStoryStatus is a versatile and intuitive SwiftUI library designed to effortlessly display user lists and seamlessly showcase their captivating stories.
-  * * [SSSwiftUISideMenu](https://github.com/SimformSolutionsPvtLtd/SSSwiftUISideMenu) - SSSwiftUISideMenu: Effortless Side Navigation in SwiftUI. Create sleek and customizable side menus effortlessly in SwiftUI with SSSwiftUISideMenu.
+* [SSStoryStatus](https://github.com/SimformSolutionsPvtLtd/SSStoryStatus) - SSStoryStatus is a versatile and intuitive SwiftUI library designed to effortlessly display user lists and seamlessly showcase their captivating stories.
+* [SSSwiftUISideMenu](https://github.com/SimformSolutionsPvtLtd/SSSwiftUISideMenu) - SSSwiftUISideMenu: Effortless Side Navigation in SwiftUI. Create sleek and customizable side menus effortlessly in SwiftUI with SSSwiftUISideMenu.
+* [SS-iOS-Animations](https://github.com/SimformSolutionsPvtLtd/SS-iOS-Animations) - Elevate your SwiftUI apps with smooth, eye-catching animations and interactive effects, making your UI more engaging and fun with ease! ✨
+* [SSOTPPinView](https://github.com/SimformSolutionsPvtLtd/SSOTPPinView) - SSOTPPinView is a powerful iOS library that simplifies the creation of customizable OTP input views, offering custom keyboard support, extensive customization, and seamless SwiftUI integration for secure and user-friendly OTP entry.
+* [SSExpandableSwipeUpView](https://github.com/SimformSolutionsPvtLtd/SSExpandableSwipeUpView) - SSExpandableSwipeUpView is a SwiftUI library that mimics the iPhone Notification Center, offering customizable, expandable views with simple CocoaPods integration. 
 
 
 ### Objective-C
