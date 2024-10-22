@@ -28,24 +28,19 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 
 [Swift Developments](https://developer.apple.com/swift/) - A complete guide for Swift.
 
+**Swift Libraries**
 * [SSSpinnerButton](https://github.com/SimformSolutionsPvtLtd/SSSpinnerButton) - SSSpinnerButton is an elegant button with a different spinner animations.
 * [SSCustomTabbar](https://github.com/mobile-simformsolutions/SSCustomTabbar) - Simple Animated tabbar with native control.
 * [SSMetalImageFilter](https://github.com/mobile-simformsolutions/SSMetalImageFilter) - Simple Image Filter control.
 * [SSAppUpdater](https://github.com/SimformSolutionsPvtLtd/SSAppUpdater) - SSAppUpdater is an open-source framework that compares the current version of the app with the store version and returns the essential details of it like app URL, new app version number, new release note, etc. So you can either redirect or notify the user to update their app.
 * [SSMultiSwipeCellKit](https://github.com/SimformSolutionsPvtLtd/SSMultiSwipeCellKit) - SSMultiSwipeCellKit provides feature for UITableView to select multiple cell at once with beautiful sliding animations.
-* [NewsApp-RIBs](https://github.com/SimformSolutionsPvtLtd/NewsApp-RIBs) - News app with Listview and Pageview using uber's RIB Architecture.
-* [SSSwiftyGo](https://github.com/SimformSolutionsPvtLtd/SSSwiftyGo) - SSSwiftyGo is written in Swift to help you to navigate in SwiftUI Views using only one line of code.
-* [SSMediaLibrary](https://github.com/SimformSolutionsPvtLtd/SSMediaLibrary) - SSMediaLibrary is written in Swift with the use of Combine framework.
+* [SwiftyGo](https://github.com/SimformSolutionsPvtLtd/SSSwiftyGo) - SSSwiftyGo is written in Swift to help you to navigate in SwiftUI Views using only one line of code.
 * [SSFloatingLabelTextField](https://github.com/SimformSolutionsPvtLtd/SSFloatingLabelTextField) - SSFloatingLabelTextField is a small library for iOS which supports Floating labels and errors with different kind of validations. Also user can add/customise own validation and error messages.
 * [SSCustomPullToRefresh](https://github.com/SimformSolutionsPvtLtd/SSCustomPullToRefresh) - SSCustomPullToRefresh is an open-source library that uses UIKit to add an animation to the pull to refresh view in a UITableView and UICollectionView.
 * [SSNaturalLanguage](https://github.com/SimformSolutionsPvtLtd/SSNaturalLanguage) - The SSNaturalLanguage framework let you provide a variety of natural language processing functionality with support for many different languages and scripts. Use SSNaturalLanguage framework to segment natural language text into paragraphs, sentences or words and tag information about those segments such as part of speech, lexical class, lemma, script and language.
-* [Game-With-AR](https://github.com/SimformSolutionsPvtLtd/Game-With-AR) - Simple AR Game.
-* [tesseract-OCR-iOS-demo](https://github.com/SimformSolutionsPvtLtd/tesseract-OCR-iOS-demo) - This prototype is to recognize text inside the image and for that it uses Tesseract OCR. The underlying Tesseract engine will process the picture and return anything that it believes is text.
 * [PhoneNumberKit](https://github.com/SimformSolutionsPvtLtd/PhoneNumberKit) - Swift 5.0 framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
-* [Fitness-App-ARKit](https://github.com/SimformSolutionsPvtLtd/Fitness-App-ARKit) - Fitness App build with ARKit.
-* [SSNeumorphicKit](https://github.com/SimformSolutionsPvtLtd/SSNeumorphicKit) - SSNeumorphicView is to build a Neumorphism view, button, and text filed in iOS.
+* [SSNeumorphicView](https://github.com/SimformSolutionsPvtLtd/SSNeumorphicKit) - SSNeumorphicView is to build a Neumorphism view, button, and text filed in iOS.
 * [SSCustomSideMenu](https://github.com/SimformSolutionsPvtLtd/SSCustomSideMenu) - A Highly customizable SideMenu.
-* [Workouts-TV-app](https://github.com/SimformSolutionsPvtLtd/Workouts-TV-app) - A TV Workout App.
 * [SSGoogleLogin](https://github.com/SimformSolutionsPvtLtd/SSGoogleLogin) - The GoogleSigninReusabelComponets for iOS is the easiest way to get data from Google.
 * [SSFacebookLogin](https://github.com/SimformSolutionsPvtLtd/SSFacebookLogin) - The Reusable Facebook Login Components for iOS is the easiest way to get data from Facebook.
 * [SSPlaceHolderTableView](https://github.com/SimformSolutionsPvtLtd/SSPlaceHolderTableView) - This is simple, customized and easy state wise PlaceHolder for TableView and CollectionView.
@@ -53,19 +48,27 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 * [SSTwitterLogin](https://github.com/SimformSolutionsPvtLtd/SSTwitterLogin) - The reusable Twitter login components for iOS is the easiest way to get data from Twitter.
 * [SSCircularSlider](https://github.com/SimformSolutionsPvtLtd/SSCircularSlider) - A simple and powerful circular ring slider, written in swift and fully customizable.
 * [SSProgressBar](https://github.com/SimformSolutionsPvtLtd/SSProgressBar) - SSProgressBar is an elegant progressbar with many customization options.
+* [SSCustomTabMenu](https://github.com/SimformSolutionsPvtLtd/SSCustomTabMenu) - Simple customizable iOS bottom menu works like Tabbar, in Swift.
+* [SSVerticalPanoramaImage](https://github.com/SimformSolutionsPvtLtd/SSVerticalPanoramaImage) - SSVerticalPanoramaImage provides a feature to capture a vertical panorama image and also provides an option to preview it on the built-in screen.
+
+**Swift Demos** 
+* [ios-commons](https://github.com/SimformSolutionsPvtLtd/ios-commons) - It Contains GoogleAnalytics/Firebase, Answers, Localytics, Social Media login, Reachability, Device permission Manage and learn state of Photo library, Camera etc.
 * [ARKit2.0-Prototype](https://github.com/SimformSolutionsPvtLtd/ARKit2.0-Prototype) - Apple’s introduction of ARKit 2, we have been consistently working behind to create shared-AR experiences.
 * [MVVMListDemo](https://github.com/SimformSolutionsPvtLtd/MVVMListDemo) - A simple MVVM list.
-* [CreateFirebaseDynamicLinks](https://github.com/SimformSolutionsPvtLtd/CreateFirebaseDynamicLinks) - The FireBaseDynamicLinkReuabelClass provide the sharing data between both ios and android plateforms.
+* [Workouts-TV-app](https://github.com/SimformSolutionsPvtLtd/Workouts-TV-app) - A TV Workout App.
+* [Game-With-AR](https://github.com/SimformSolutionsPvtLtd/Game-With-AR) - Simple AR Game.
+* [tesseract-OCR-iOS-demo](https://github.com/SimformSolutionsPvtLtd/tesseract-OCR-iOS-demo) - This prototype is to recognize text inside the image and for that it uses Tesseract OCR. The underlying Tesseract engine will process the picture and return anything that it believes is text.
+* [NewsApp-RIBs](https://github.com/SimformSolutionsPvtLtd/NewsApp-RIBs) - News app with Listview and Pageview using uber's RIB Architecture.
 * [CMPedometerDemo](https://github.com/SimformSolutionsPvtLtd/CMPedometerDemo) - Let's count steps using CMPedometer.
-* [SSCustomTabMenu](https://github.com/SimformSolutionsPvtLtd/SSCustomTabMenu) - Simple customizable iOS bottom menu works like Tabbar, in Swift.
-* [ios-commons](https://github.com/SimformSolutionsPvtLtd/ios-commons) - It Contains GoogleAnalytics/Firebase, Answers, Localytics, Social Media login, Reachability, Device permission Manage and learn state of Photo library, Camera etc.
-* [SSVerticalPanoramaImage](https://github.com/SimformSolutionsPvtLtd/SSVerticalPanoramaImage) - SSVerticalPanoramaImage provides a feature to capture a vertical panorama image and also provides an option to preview it on the built-in screen.
+* [SSMediaLibrary](https://github.com/SimformSolutionsPvtLtd/SSMediaLibrary) - SSMediaLibrary is written in Swift with the use of Combine framework.
+* [Fitness-App-ARKit](https://github.com/SimformSolutionsPvtLtd/Fitness-App-ARKit) - Fitness App build with ARKit.
+* [CreateFirebaseDynamicLinks](https://github.com/SimformSolutionsPvtLtd/CreateFirebaseDynamicLinks) - The FireBaseDynamicLinkReuabelClass provide the sharing data between both ios and android plateforms.
 
 ### SwiftUI
 
 [SwiftUI Developments](https://developer.apple.com/tutorials/SwiftUI) - A complete guide for SwiftUI.
 
-* [SwiftUI-Combine-MVVM](https://github.com/SimformSolutionsPvtLtd/SwiftUI-Combine-MVVM) - Simple Demo for SwiftUI+Combine in MVVM.
+**SwiftUI Libraries**
 * [SSSwiftUIGIFView](https://github.com/SimformSolutionsPvtLtd/SSSwiftUIGIFView) - SSSwiftUIGIFView is a custom controller which helps to load GIF in SwiftUI.
 * [SSSwiftUISpinnerButton](https://github.com/SimformSolutionsPvtLtd/SSSwiftUISpinnerButton) - SSSwiftUISpinnerButton is an open-source library in SwiftUI to add different spinning animation to button.
 * [SSSwiftUIVideoLayerView](https://github.com/SimformSolutionsPvtLtd/SSSwiftUIVideoLayerView) - SSSwiftUIVideoPlayerLayer is a custom controller which helps to load video in SwiftUI.
@@ -76,10 +79,12 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 * [SSSwiper](https://github.com/SimformSolutionsPvtLtd/SSSwiper) - SSSwiper is SWIFTUI package which is used to create swipe gestures action inside any view just by adding a modifier to the View with various customization options.
 * [SSStoryStatus](https://github.com/SimformSolutionsPvtLtd/SSStoryStatus) - SSStoryStatus is a versatile and intuitive SwiftUI library designed to effortlessly display user lists and seamlessly showcase their captivating stories.
 * [SSSwiftUISideMenu](https://github.com/SimformSolutionsPvtLtd/SSSwiftUISideMenu) - SSSwiftUISideMenu: Effortless Side Navigation in SwiftUI. Create sleek and customizable side menus effortlessly in SwiftUI with SSSwiftUISideMenu.
-* [SS-iOS-Animations](https://github.com/SimformSolutionsPvtLtd/SS-iOS-Animations) - Elevate your SwiftUI apps with smooth, eye-catching animations and interactive effects, making your UI more engaging and fun with ease! ✨
 * [SSOTPPinView](https://github.com/SimformSolutionsPvtLtd/SSOTPPinView) - SSOTPPinView is a powerful iOS library that simplifies the creation of customizable OTP input views, offering custom keyboard support, extensive customization, and seamless SwiftUI integration for secure and user-friendly OTP entry.
 * [SSExpandableSwipeUpView](https://github.com/SimformSolutionsPvtLtd/SSExpandableSwipeUpView) - SSExpandableSwipeUpView is a SwiftUI library that mimics the iPhone Notification Center, offering customizable, expandable views with simple CocoaPods integration. 
 
+**SwiftUI Demos** 
+* [SwiftUI-Combine-MVVM](https://github.com/SimformSolutionsPvtLtd/SwiftUI-Combine-MVVM) - Simple Demo for SwiftUI+Combine in MVVM.
+* [SS-iOS-Animations](https://github.com/SimformSolutionsPvtLtd/SS-iOS-Animations) - Elevate your SwiftUI apps with smooth, eye-catching animations and interactive effects, making your UI more engaging and fun with ease! ✨
 
 ### Objective-C
 
