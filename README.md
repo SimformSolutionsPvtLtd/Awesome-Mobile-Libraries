@@ -148,6 +148,7 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 *An awesome collection of [React-Native](https://reactnative.dev/) related packages.*
 
 * [react-native-audio-waveform](https://www.npmjs.com/package/@simform_solutions/react-native-audio-waveform) - A React Native package to show audio waveform with ease in react native application
+* [react-native-infinite-wheel-picker](https://www.npmjs.com/package/react-native-infinite-wheel-picker) - A React Native package to provide infinite wheel picker selection
 * [react-native-graph-kit](https://www.npmjs.com/package/react-native-graph-kit) - A Personalized graphs package featuring customizable options for React Native app
 * [react-native-sticky-table](https://www.npmjs.com/package/react-native-sticky-table) - A React Native sticky table component to elevate the app's data presentation and visualization experience
 * [react-native-tree-selection](https://www.npmjs.com/package/react-native-tree-selection) - A high-performance and lightweight tree selection library for React Native
