@@ -83,6 +83,7 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 * [SSExpandableSwipeUpView](https://github.com/SimformSolutionsPvtLtd/SSExpandableSwipeUpView) - SSExpandableSwipeUpView is a SwiftUI library that mimics the iPhone Notification Center, offering customizable, expandable views with simple CocoaPods integration.
 * [SS-iOS-Animations](https://github.com/SimformSolutionsPvtLtd/SS-iOS-Animations) - Elevate your SwiftUI apps with smooth, eye-catching animations and interactive effects, making your UI more engaging and fun with ease! ✨
 * [SSSignaturePad](https://github.com/SimformSolutionsPvtLtd/SSSignaturePad) - SSSignaturePad allows users to draw smooth signatures with their finger or a stylus and provides options to customize the appearance and behaviour of the signature pad in SwiftUI
+* [SSDateTimePicker](https://github.com/SimformSolutionsPvtLtd/SSDateTimePicker) - SSDateTimePicker is a SwiftUI library that simplifies date and time selection in your applications, providing a variety of features and a customizable UI for both date and time pickers.
 
 **SwiftUI Demos** 
 * [SwiftUI-Combine-MVVM](https://github.com/SimformSolutionsPvtLtd/SwiftUI-Combine-MVVM) - Simple Demo for SwiftUI+Combine in MVVM.
