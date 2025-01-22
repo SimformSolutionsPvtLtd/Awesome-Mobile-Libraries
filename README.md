@@ -142,6 +142,8 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 * [Credit card](https://github.com/SimformSolutionsPvtLtd/flutter_credit_card) - A Flutter package allows you to easily implement the Credit card's UI easily with the Card detection.
 * [Chat view](https://github.com/SimformSolutionsPvtLtd/flutter_chatview) - A Flutter package that allows you to integrate Chat View with highly customization options.
 * [Audio waveforms](https://github.com/SimformSolutionsPvtLtd/audio_waveforms) - Use this package to generate waveforms while recording audio in any file formats supported by given encoders or from audio files. You can use gestures to scroll through the waveforms or seek to any position while playing audio and also style waveforms.
+* [splash_master](https://github.com/SimformSolutionsPvtLtd/splash_master) - A Flutter plugin that streamlines the process of adding splash screens to your app. This plugin takes care of all the necessary native-side setup which saves your time and efforts.
+* [fast_image_compress](https://github.com/SimformSolutionsPvtLtd/fast_image_compress) - A Flutter plugin that allows fast compression of images easily and quickly.
 * [Battleship game](https://github.com/SimformSolutionsPvtLtd/battleship_flutter_flame) - A Flutter project of 2 player battleship game developed with Flame engine.
 
 
