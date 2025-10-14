@@ -148,6 +148,8 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 ## React Native
 *An awesome collection of [React-Native](https://reactnative.dev/) related packages.*
 
+* [react-native-haptic-patterns](https://www.npmjs.com/package/react-native-haptic-patterns) - A React Native package to create, record, and play customizable haptic feedback patterns on iOS and Android.
+* [react-native-app-data-sharing](https://www.npmjs.com/package/react-native-app-data-sharing) - A React Native package facilitates seamless and secure data sharing between applications on the same device
 * [react-native-audio-waveform](https://www.npmjs.com/package/@simform_solutions/react-native-audio-waveform) - A React Native package to show audio waveform with ease in react native application
 * [react-native-infinite-wheel-picker](https://www.npmjs.com/package/react-native-infinite-wheel-picker) - A React Native package to provide infinite wheel picker selection
 * [react-native-graph-kit](https://www.npmjs.com/package/react-native-graph-kit) - A Personalized graphs package featuring customizable options for React Native app
