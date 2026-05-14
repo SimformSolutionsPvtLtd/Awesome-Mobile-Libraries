@@ -86,6 +86,7 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 * [SSDateTimePicker](https://github.com/SimformSolutionsPvtLtd/SSDateTimePicker) - SSDateTimePicker is a SwiftUI library that simplifies date and time selection in your applications, providing a variety of features and a customizable UI for both date and time pickers.
 * [SSImageKit](https://github.com/SimformSolutionsPvtLtd/SSImageKit) - SSImageKit is an advanced and versatile toolkit tailored for image processing. At its core, SSImageKitEngine empowers real-time image editing, preserving a non-destructive workflow.
 * [SSCoachMarks](https://github.com/SimformSolutionsPvtLtd/SSCoachMarks) - The SSCoachMarks SDK in SwiftUI is designed to showcase or highlight specific views with titles, descriptions, and customizable content.
+* [SSChatview](https://github.com/SimformSolutionsPvtLtd/SSChatview) - SSChatView is a SwiftUI library that brings an iMessage-style chat interface with rich features and full customization support.
 
 **SwiftUI Demos** 
 * [SwiftUI-Combine-MVVM](https://github.com/SimformSolutionsPvtLtd/SwiftUI-Combine-MVVM) - Simple Demo for SwiftUI+Combine in MVVM.
