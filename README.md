@@ -87,6 +87,7 @@ This repo contains all the Open-source Libraries from iOS, Android, Flutter and 
 * [SSImageKit](https://github.com/SimformSolutionsPvtLtd/SSImageKit) - SSImageKit is an advanced and versatile toolkit tailored for image processing. At its core, SSImageKitEngine empowers real-time image editing, preserving a non-destructive workflow.
 * [SSCoachMarks](https://github.com/SimformSolutionsPvtLtd/SSCoachMarks) - The SSCoachMarks SDK in SwiftUI is designed to showcase or highlight specific views with titles, descriptions, and customizable content.
 * [SSChatview](https://github.com/SimformSolutionsPvtLtd/SSChatview) - SSChatView is a SwiftUI library that brings an iMessage-style chat interface with rich features and full customization support.
+* [WishKit](https://github.com/wishkit/wishkit-ios) - SwiftUI SDK for an in-app feature request board where users submit and vote on features.
 
 **SwiftUI Demos** 
 * [SwiftUI-Combine-MVVM](https://github.com/SimformSolutionsPvtLtd/SwiftUI-Combine-MVVM) - Simple Demo for SwiftUI+Combine in MVVM.
